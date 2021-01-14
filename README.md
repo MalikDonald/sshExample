@@ -1,7 +1,7 @@
 #README
 
-This file is stop secret
+* This file is stop secret
 
-This file also hold krabby patty formula 
+* This file also hold krabby patty formula 
 
-This README is a fake!
+* This README is a fake!
